@@ -1,5 +1,9 @@
-var myname = document.getElementsByClassName("name");
-myname.innerHTML = `<span>Aniruddha Bajpai</span>`;
-var college = document.getElementsByClassName();
-
-date_.value = new Date().getDate;
+var date_ = document.getElementById("date");
+var today = new Date();
+date_.innerText = today.toDateString();
+var name_ = document.getElementById("name");
+name_.innerText = "Aniruddha Bajpai";
+var college_ = document.getElementById("college");
+college_.innerText = "GLA University";
+var rno = document.getElementById("rno");
+rno.innerText = "201500092";
