@@ -85,6 +85,14 @@ section #topic {
   top: 200px;
   font-size: 100px;
 }
+section #content {
+  position: absolute;
+  left: 00px;
+  font-size: 30px;
+  top: 550px;
+  color: grey;
+  left: 200px;
+}
 section img {
   margin-top: 100px;
 }
