@@ -96,6 +96,9 @@ section #content {
 section img {
   margin-top: 100px;
 }
+section #dis .discount {
+  color: red;
+}
 footer {
   display: flex;
   justify-content: space-evenly;
